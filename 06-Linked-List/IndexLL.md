@@ -22,6 +22,9 @@ Linked List
 20. Middle of the LL( https://leetcode.com/problems/middle-of-the-linked-list/)
 21. Reverse Linked List Recursive Approach 
 22. Cycle Detection in Linked list (https://leetcode.com/problems/linked-list-cycle/)
+23. Find starting of loop in LL (https://leetcode.com/problems/linked-list-cycle-ii/)
+24. Length of loop in Linked list (https://www.geeksforgeeks.org/problems/find-length-of-loop/1)
+25. 
 
 
 
