@@ -20,6 +20,7 @@ Linked List
 19. Reverse Doubly LL
 # Medium Problems of Striver's medium section 
 20. Middle of the LL( https://leetcode.com/problems/middle-of-the-linked-list/)
+21. Reverse Linked List Recursive Approach 
 
 
 
