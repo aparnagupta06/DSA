@@ -21,6 +21,7 @@ Linked List
 # Medium Problems of Striver's medium section 
 20. Middle of the LL( https://leetcode.com/problems/middle-of-the-linked-list/)
 21. Reverse Linked List Recursive Approach 
+22. Cycle Detection in Linked list (https://leetcode.com/problems/linked-list-cycle/)
 
 
 
